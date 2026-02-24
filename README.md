@@ -1,6 +1,6 @@
 # RunPod Serverless: FLUX.1 Text-to-Image API
 
-I used FLUX.1-schnell because it is the fastest version of FLUX and is free, unlike the 'dev' version.
+I used FLUX.1-schnell because it is the fastest version of FLUX and it's free, unlike the 'dev' version.
 
 ## Overview
 ```bash
@@ -39,6 +39,7 @@ Env: HF_TOKEN = your key
 
 GPU: Works on RTX 3090, 4090, A6000, or A100.
 ```
+
 
 
 
