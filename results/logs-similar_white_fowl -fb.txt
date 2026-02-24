@@ -1,0 +1,32 @@
+2026-02-24  14:38:13.746 | info | dny3edwa4xdvia | Finished.
+2026-02-24  14:38:12.499 | info | dny3edwa4xdvia | \r  0%|          | 0/4 [00:00<?, ?it/s]\r 25%|██▌       | 1/4 [00:01<00:03,  1.11s/it]\r 50%|█████     | 2/4 [00:01<00:01,  1.15it/s]\r 75%|███████▌  | 3/4 [00:02<00:00,  1.04it/s]\r100%|██████████| 4/4 [00:03<00:00,  1.01s/it]\r100%|██████████| 4/4 [00:03<00:00,  1.01it/s]\n
+2026-02-24  14:38:08.072 | info | dny3edwa4xdvia | Started.
+2026-02-24  14:38:08.072 | info | dny3edwa4xdvia | --- Starting Serverless Worker |  Version 1.7.0 ---\n
+2026-02-24  14:38:06.641 | info | dny3edwa4xdvia | --- Model Loaded Successfully ---\n
+2026-02-24  14:38:06.640 | info | dny3edwa4xdvia | Strategy: High Performance (Full VRAM)\n
+2026-02-24  14:38:00.081 | info | dny3edwa4xdvia | \rLoading pipeline components...:  43%|████▎     | 3/7 [00:18<00:19,  4.84s/it]\rLoading pipeline components...:  71%|███████▏  | 5/7 [00:18<00:04,  2.39s/it]\rLoading pipeline components...: 100%|██████████| 7/7 [00:19<00:00,  1.50s/it]\rLoading pipeline components...: 100%|██████████| 7/7 [00:19<00:00,  2.75s/it]\n
+2026-02-24  14:38:00.081 | info | dny3edwa4xdvia | \rLoading pipeline components...:  14%|█▍        | 1/7 [00:18<01:49, 18.27s/it]You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers\n
+2026-02-24  14:38:00.081 | info | dny3edwa4xdvia | \rLoading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  8.19it/s][A\rLoading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.92it/s]\n
+2026-02-24  14:37:59.090 | info | dny3edwa4xdvia | \rLoading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  6.69it/s][A\n
+2026-02-24  14:37:58.987 | info | dny3edwa4xdvia | \rLoading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A\n
+2026-02-24  14:37:58.837 | info | dny3edwa4xdvia | \rLoading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \rFetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]\rFetching 23 files:   9%|▊         | 2/23 [00:00<00:03,  6.96it/s]\rFetching 23 files:  17%|█▋        | 4/23 [00:02<00:13,  1.43it/s]\rFetching 23 files:  26%|██▌       | 6/23 [00:10<00:38,  2.24s/it]\rFetching 23 files:  65%|██████▌   | 15/23 [00:12<00:06,  1.33it/s]\rFetching 23 files:  78%|███████▊  | 18/23 [00:17<00:04,  1.07it/s]\rFetching 23 files: 100%|██████████| 23/23 [00:22<00:00,  1.01s/it]\rFetching 23 files: 100%|██████████| 23/23 [00:22<00:00,  1.01it/s]\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | Detected VRAM: 44.34 GB\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | --- Initializing Smart FLUX Handler ---\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \r0it [00:00, ?it/s]\r0it [00:00, ?it/s]\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | By pulling and using the container, you accept the terms and conditions of this license:\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | This container image and its contents are governed by the NVIDIA Deep Learning Container License.\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | CUDA Version 12.4.1\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | ==========\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | == CUDA ==\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | ==========\n
+2026-02-24  14:37:39.907 | info | dny3edwa4xdvia | \n
