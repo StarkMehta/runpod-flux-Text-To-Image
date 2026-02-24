@@ -1,4 +1,4 @@
-# RunPod Serverless: Adaptive FLUX.1 API
+# RunPod Serverless: FLUX.1 Text-to-Image API
 
 ## Overview
 ```bash
@@ -37,3 +37,4 @@ Env: HF_TOKEN = your key
 
 GPU: Works on RTX 3090, 4090, A6000, or A100.
 ```
+
